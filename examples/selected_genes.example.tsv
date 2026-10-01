@@ -1,0 +1,6 @@
+gene	membership	driver	top_cell_type	top_cell_value	group_max	other_max	specificity_ratio	ref_tissue_value	ref_tissue_rank
+ACTB		MK_lineage	Megakaryocytes	22056.0	22056.0	16961.8	1.300333690999776	3397.8	11
+GP9		MK_lineage	Platelets	3990.4	3990.4	30.1	132.57142857142856	4.8	2
+ITGA2B		MK_lineage	Platelets	3636.4	3636.4	101.5	35.826600985221674	15.7	1
+PF4		MK_lineage	Platelets	1436.7	1436.7	0.5	2873.4	28.0	1
+PPBP		MK_lineage	Platelets	141.1	141.1	0.7	201.57142857142858	78.8	1

@@ -1,0 +1,76 @@
+{
+  "megakaryocytic_cell_types": [
+    "Megakaryocyte-Erythroid progenitors",
+    "Megakaryocyte progenitors",
+    "Megakaryocytes",
+    "Platelets"
+  ],
+  "hematopoietic_cell_types": [
+    "Hematopoietic stem cells",
+    "Erythrocyte progenitors",
+    "Monocyte progenitors",
+    "Neutrophil progenitors",
+    "B-cells",
+    "Erythrocytes",
+    "Hofbauer cells",
+    "Innate lymphoid cells",
+    "Kupffer cells",
+    "Macrophages",
+    "Mast cells",
+    "Microglia",
+    "NK-cells",
+    "Neutrophils",
+    "Plasma cells",
+    "T-cells",
+    "Thymocytes",
+    "cDC",
+    "monocytes",
+    "pDCs"
+  ],
+  "bone_marrow_non_hematopoietic_cell_types": [
+    "Adipocytes",
+    "Fibroblasts",
+    "Pericytes",
+    "Vascular endothelial cells",
+    "Vascular smooth muscle cells"
+  ],
+  "specificity_groups": {
+    "MK_lineage": [
+      "Megakaryocyte-Erythroid progenitors",
+      "Megakaryocyte progenitors",
+      "Megakaryocytes",
+      "Platelets"
+    ],
+    "other_hematopoietic": [
+      "Hematopoietic stem cells",
+      "Erythrocyte progenitors",
+      "Monocyte progenitors",
+      "Neutrophil progenitors",
+      "B-cells",
+      "Erythrocytes",
+      "Hofbauer cells",
+      "Innate lymphoid cells",
+      "Kupffer cells",
+      "Macrophages",
+      "Mast cells",
+      "Microglia",
+      "NK-cells",
+      "Neutrophils",
+      "Plasma cells",
+      "T-cells",
+      "Thymocytes",
+      "cDC",
+      "monocytes",
+      "pDCs"
+    ]
+  },
+  "reference_tissue": "bone marrow",
+  "borderline_fraction": 0.85,
+  "hpa_base_url": "https://www.proteinatlas.org",
+  "hpa_batch_size": 40,
+  "hpa_request_retries": 4,
+  "hpa_request_timeout_seconds": 120,
+  "hpa_parallel_requests": 4,
+  "plot_width_pixels": 1950,
+  "plot_dpi": 150
+}

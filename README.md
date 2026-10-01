@@ -30,10 +30,6 @@ git clone https://github.com/Sculptor815/scrnaseq-gene-specificity-screen.git \
     ~/.agents/skills/scrnaseq-gene-specificity-screen
 ```
 
-Per project instead of per user: clone into `.claude/skills/` (Claude Code) or `.agents/skills/` (Codex, which scans `.agents/skills` from the working directory up to the repository root).
-
-`SKILL.md` must stay at the top level of the skill folder, and the folder name should match the `name` field in its frontmatter. Any runtime that discovers `SKILL.md` directory bundles works — just point its skills directory at this folder.
-
 ## Quick start
 
 ```bash
